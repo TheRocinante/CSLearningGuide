@@ -18,5 +18,9 @@ We'll attempt to provide a balance between practical, hands-on application vs. c
 
 This section defines a grouped breakdown of topics, similar to your college course syllabus. These items should be studied at your own pace. To set yourself up for success, the main criteria is consistency. The reader should dedicate some time each week to reading and practicing these topics.
 
-
+### Books and Lectures
+* Programming: Python Crash Course: 2nd Edition by Eric Matthes
+* Data structures: [Analysis of Algorithms](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
+* Operating Systems: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* Distributed Systems: Designing Data-Intensive Applications by Martin Kleppman
 
