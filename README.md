@@ -36,7 +36,8 @@ Learning sorting algorithms is a cornerstone of any CS study. In this week, we'l
 
 0. A primer on recursion: [Recursion in Python](https://realpython.com/python-recursion/)
 1. [Introduction to Algorithms](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
-  * This is just an introduction. Some concepts will not really make full sense. Take notes. We'll get more clarity in upcoming weeks.
 2. [Asymptotic Notation](https://www.youtube.com/watch?v=z1mkCe3kVUA&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=2) 
 3. Application: [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
- * Click on the "Python3" tab for source code. You are strongly encouraged to implement a Bubble sort function, based on your understanding.
+
+[1] This is just an introduction. Some concepts will not really make full sense. Take notes. We'll get more clarity in upcoming weeks.
+[3] Click on the "Python3" tab for source code. You are strongly encouraged to implement a Bubble sort function, based on your understanding.
